@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module collectionsJavaApi2023 {
-}
